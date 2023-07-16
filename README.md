@@ -11,4 +11,4 @@
 
 <p id="description">Feel free to contact:<br>
 <b>aliaryu@yahoo.com</b><br>
-<b>aliaryu@yahoo.com</b></p>
+<b>aliaryucontact@gmail.com</b></p>
